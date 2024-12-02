@@ -12,3 +12,4 @@ git clone https://github.com/patrlean/EyeDataAnalysis.git
 
 # File Structure
 Maxvit based multi-modal model is in maxvit + mlp + cross attention. The jupyter notebook should run in the pace-ice environment.
+Maxvit and Efficient Net model is Max+EffNet
